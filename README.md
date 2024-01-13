@@ -1,0 +1,2 @@
+# Detecting Anomaly in ECG Data Using AutoEncoder with PyTorch
+ This project, "Detecting Anomaly in ECG Data Using AutoEncoder with PyTorch," focuses on leveraging an LSTM-based Autoencoder for identifying irregularities in ECG signals. It employs PyTorch to train and evaluate the model on datasets of normal and anomalous heart patterns, emphasizing real-time anomaly detection to enhance cardiac monitoring.
